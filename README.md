@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1660415409/60740/man-medium-skin-tone-beard.gif?1660415409" width="30"/> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415409/60740/man-medium-skin-tone-beard.gif?1660415409" width="30"/> 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖</h2>
 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛 𝕏 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 :: 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚑𝚎𝚕𝚙𝚏𝚞𝚕 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚠𝚒𝚝𝚑 ♡
 
 
@@ -7,13 +7,13 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt=""> -->
 
 
-<h1><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> 𝚆𝚊𝚝𝚌𝚑 𝚖𝚢 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑 𝚐𝚎𝚝 𝚎𝚊𝚝𝚎𝚗 𝚋𝚢 𝚝𝚑𝚎 𝚜𝚗𝚊𝚔𝚎</h1>
+<h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> 𝕎𝕒𝕥𝕔𝕙 𝕞𝕪 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙 𝕘𝕖𝕥 𝕖𝕒𝕥𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕊𝕟𝕒𝕜𝕖</h2>
 
 ![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1660415433/60795/folded-hands.gif?1660415433" width="30"/> 𝚂𝚘𝚌𝚒𝚊𝚕𝚜</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415433/60795/folded-hands.gif?1660415433" width="30"/> 𝕊𝕠𝕔𝕚𝕒𝕝𝕤</h2>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/johnwillz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnwillz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnwillz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/johnwillz_) 
 
@@ -21,7 +21,7 @@
 
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1660415359/60631/robot.gif?1660415359" width="30"/> 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415359/60631/robot.gif?1660415359" width="30"/> 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜</h2>
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
@@ -29,17 +29,16 @@
 
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1660415435/60800/eyes.gif?1660415435" width="30"/> 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415435/60800/eyes.gif?1660415435" width="30"/> 𝕊𝕥𝕒𝕥𝕤</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=johnwillz-ux&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johnwillz-ux&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnwillz-ux&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1660415397/60712/writing-hand.gif?1660415397" width="30"/> 𝚁𝚊𝚗𝚍𝚘𝚖 𝙳𝚎𝚟 𝚀𝚞𝚘𝚝𝚎</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415397/60712/writing-hand.gif?1660415397" width="30"/> 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=johnwillz-ux&icon=1&color=7)](https://visitcount.itsvg.in)
