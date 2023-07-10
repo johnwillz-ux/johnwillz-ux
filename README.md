@@ -12,15 +12,6 @@
 ![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
 
-
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415433/60795/folded-hands.gif?1660415433" width="30"/> 𝕃𝕖𝕥’𝕤 ℂ𝕠𝕟𝕟𝕖𝕔𝕥</h2>
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/johnwillz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnwillz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnwillz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/johnwillz_) 
-
-
-
-
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415359/60631/robot.gif?1660415359" width="30"/> 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜</h2>
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
