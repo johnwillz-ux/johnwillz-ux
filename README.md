@@ -1,6 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415409/60740/man-medium-skin-tone-beard.gif?1660415409" width="30"/> 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖</h2>
-𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛 𝕏 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 :: 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚑𝚎𝚕𝚙𝚏𝚞𝚕 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚠𝚒𝚝𝚑 ♡
-
+My expertise lies in creating top-notch products that effectively address real-world problems. With my unique ability to bridge the gap between design and development, I am proficient in a variety of languages, including JavaScript, PHP, Dart. as well as design tools like Sketch, Adobe XD, and Figma. I produce visually appealing designs that are intuitive and easy to navigate, thanks to my keen eye for detail. Above all, I prioritize the user experience and always prioritize their needs in my design decisions. I am a collaborative problem solver and team player who is passionate about creating exceptional products.
 
 
 
