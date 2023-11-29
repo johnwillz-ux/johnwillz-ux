@@ -8,7 +8,7 @@ My expertise lies in creating top-notch products that effectively address real-w
 
 <h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> 𝕎𝕒𝕥𝕔𝕙 𝕞𝕪 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟 𝔾𝕣𝕒𝕡𝕙 𝕘𝕖𝕥 𝕖𝕒𝕥𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕊𝕟𝕒𝕜𝕖</h2>
 
-![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
+[![wakatime](https://wakatime.com/badge/user/2c657cc9-1372-4437-bab3-ad6eed6843b6.svg)](https://wakatime.com/@2c657cc9-1372-4437-bab3-ad6eed6843b6)
 
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415359/60631/robot.gif?1660415359" width="30"/> 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜</h2>
